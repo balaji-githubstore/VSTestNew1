@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run start-time="2021-02-16 20:41:07Z">
+  <command-line><![CDATA[D:\B-Mine\Company\Company\Novac2\NUnit.Console-3.12.0\bin\netcoreapp3.1\nunit3-console.dll netcoreapp3.1/OpenEmrAutomation.dll --test=UnitedLex.OpenEmrAutomation.LoginTest.ValidCredentialTest,UnitedLex.OpenEmrAutomation.LoginTest.InvalidCredentialTest]]></command-line>
+</test-run>

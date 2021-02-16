@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="8" result="Passed" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="6" engine-version="3.12.0.0" clr-version="3.1.11" start-time="2021-02-16 20:29:58Z" end-time="2021-02-16 20:30:57Z" duration="59.077048">
+  <command-line><![CDATA[D:\B-Mine\Company\Company\Novac2\NUnit.Console-3.12.0\bin\netcoreapp3.1\nunit3-console.dll OpenEmrAutomation.dll --test=UnitedLex.OpenEmrAutomation.LoginTest.ValidCredentialTest,UnitedLex.OpenEmrAutomation.LoginTest.InvalidCredentialTest]]></command-line>
+  <filter>
+    <or>
+      <test>UnitedLex.OpenEmrAutomation.LoginTest.ValidCredentialTest</test>
+      <test>UnitedLex.OpenEmrAutomation.LoginTest.InvalidCredentialTest</test>
+    </or>
+  </filter>
+  <test-suite type="Assembly" id="1-1013" name="OpenEmrAutomation.dll" fullname="D:/B-Mine/Company/Company/Unitedlex/WebAutomationFramework - Copy/OpenEmrAutomation/bin/Debug/netcoreapp3.1/OpenEmrAutomation.dll" runstate="Runnable" testcasecount="8" result="Passed" start-time="2021-02-16T20:29:59.4608508Z" end-time="2021-02-16T20:30:57.9075954Z" duration="58.446664" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+    <environment framework-version="3.13.1.0" clr-version="3.1.11" os-version="Microsoft Windows 10.0.18363" platform="Win32NT" cwd="D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1" machine-name="COMPUTER" user="Abirami" user-domain="COMPUTER" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14556" />
+      <property name="_APPDOMAIN" value="nunit3-console" />
+    </properties>
+    <test-suite type="TestSuite" id="1-1015" name="UnitedLex" fullname="UnitedLex" runstate="Runnable" testcasecount="7" result="Passed" start-time="2021-02-16T20:29:59.4666455Z" end-time="2021-02-16T20:30:57.9074810Z" duration="58.440835" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+      <test-suite type="TestSuite" id="1-1016" name="OpenEmrAutomation" fullname="UnitedLex.OpenEmrAutomation" runstate="Runnable" testcasecount="7" result="Passed" start-time="2021-02-16T20:29:59.4669565Z" end-time="2021-02-16T20:30:57.9071515Z" duration="58.440199" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+        <test-suite type="TestFixture" id="1-1003" name="LoginTest" fullname="UnitedLex.OpenEmrAutomation.LoginTest" classname="UnitedLex.OpenEmrAutomation.LoginTest" runstate="Runnable" testcasecount="7" result="Passed" start-time="2021-02-16T20:29:59.4684113Z" end-time="2021-02-16T20:30:57.9064930Z" duration="58.438087" total="6" passed="6" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="6">
+          <test-suite type="ParameterizedMethod" id="1-1011" name="InvalidCredentialTest" fullname="UnitedLex.OpenEmrAutomation.LoginTest.InvalidCredentialTest" classname="UnitedLex.OpenEmrAutomation.LoginTest" runstate="Runnable" testcasecount="5" result="Passed" start-time="2021-02-16T20:29:59.4897420Z" end-time="2021-02-16T20:30:41.2101029Z" duration="41.720365" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="5">
+            <test-case id="1-1006" name="InvalidCredentialTest(&quot;admin12&quot;,&quot;pass&quot;,&quot;English (Indian)&quot;,&quot;Invalid username or password&quot;)" fullname="UnitedLex.OpenEmrAutomation.LoginTest.InvalidCredentialTest(&quot;admin12&quot;,&quot;pass&quot;,&quot;English (Indian)&quot;,&quot;Invalid username or password&quot;)" methodname="InvalidCredentialTest" classname="UnitedLex.OpenEmrAutomation.LoginTest" runstate="Runnable" seed="2007191693" result="Passed" start-time="2021-02-16T20:29:59.4901345Z" end-time="2021-02-16T20:30:09.9450790Z" duration="10.455157" asserts="1" />
+            <test-case id="1-1007" name="InvalidCredentialTest(&quot;bala&quot;,&quot;bala123&quot;,&quot;Danish&quot;,&quot;Invalid username or password&quot;)" fullname="UnitedLex.OpenEmrAutomation.LoginTest.InvalidCredentialTest(&quot;bala&quot;,&quot;bala123&quot;,&quot;Danish&quot;,&quot;Invalid username or password&quot;)" methodname="InvalidCredentialTest" classname="UnitedLex.OpenEmrAutomation.LoginTest" runstate="Runnable" seed="1770041630" result="Passed" start-time="2021-02-16T20:30:09.9488535Z" end-time="2021-02-16T20:30:17.1970781Z" duration="7.248237" asserts="1" />
+            <test-case id="1-1008" name="InvalidCredentialTest(&quot;mark&quot;,&quot;mark123&quot;,&quot;Albanian&quot;,&quot;Invalid username or password&quot;)" fullname="UnitedLex.OpenEmrAutomation.LoginTest.InvalidCredentialTest(&quot;mark&quot;,&quot;mark123&quot;,&quot;Albanian&quot;,&quot;Invalid username or password&quot;)" methodname="InvalidCredentialTest" classname="UnitedLex.OpenEmrAutomation.LoginTest" runstate="Runnable" seed="1482599431" result="Passed" start-time="2021-02-16T20:30:17.1980081Z" end-time="2021-02-16T20:30:24.3378165Z" duration="7.139812" asserts="1" />
+            <test-case id="1-1009" name="InvalidCredentialTest(&quot;peter&quot;,&quot;peter123&quot;,&quot;Albanian&quot;,&quot;Invalid username or password&quot;)" fullname="UnitedLex.OpenEmrAutomation.LoginTest.InvalidCredentialTest(&quot;peter&quot;,&quot;peter123&quot;,&quot;Albanian&quot;,&quot;Invalid username or password&quot;)" methodname="InvalidCredentialTest" classname="UnitedLex.OpenEmrAutomation.LoginTest" runstate="Runnable" seed="1188967711" result="Passed" start-time="2021-02-16T20:30:24.3379175Z" end-time="2021-02-16T20:30:33.5772526Z" duration="9.239338" asserts="1" />
+            <test-case id="1-1010" name="InvalidCredentialTest(&quot;paul&quot;,&quot;pauk&quot;,&quot;Danish&quot;,&quot;Invalid username or password&quot;)" fullname="UnitedLex.OpenEmrAutomation.LoginTest.InvalidCredentialTest(&quot;paul&quot;,&quot;pauk&quot;,&quot;Danish&quot;,&quot;Invalid username or password&quot;)" methodname="InvalidCredentialTest" classname="UnitedLex.OpenEmrAutomation.LoginTest" runstate="Runnable" seed="240693495" result="Passed" start-time="2021-02-16T20:30:33.5773584Z" end-time="2021-02-16T20:30:41.2075677Z" duration="7.630213" asserts="1" />
+          </test-suite>
+          <test-suite type="ParameterizedMethod" id="1-1005" name="ValidCredentialTest" fullname="UnitedLex.OpenEmrAutomation.LoginTest.ValidCredentialTest" classname="UnitedLex.OpenEmrAutomation.LoginTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2021-02-16T20:30:41.2115662Z" end-time="2021-02-16T20:30:53.2178311Z" duration="12.006264" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+            <test-case id="1-1004" name="ValidCredentialTest(&quot;admin&quot;,&quot;pass&quot;,&quot;English (Indian)&quot;,&quot;OpenEMR&quot;)" fullname="UnitedLex.OpenEmrAutomation.LoginTest.ValidCredentialTest(&quot;admin&quot;,&quot;pass&quot;,&quot;English (Indian)&quot;,&quot;OpenEMR&quot;)" methodname="ValidCredentialTest" classname="UnitedLex.OpenEmrAutomation.LoginTest" runstate="Runnable" seed="792222809" result="Passed" start-time="2021-02-16T20:30:41.2117680Z" end-time="2021-02-16T20:30:53.2177295Z" duration="12.005963" asserts="1" />
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

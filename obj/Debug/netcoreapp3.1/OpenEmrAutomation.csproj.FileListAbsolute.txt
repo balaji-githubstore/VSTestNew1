@@ -1,0 +1,309 @@
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\testhost.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\testhost.exe
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.deps.json
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.runtimeconfig.json
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.runtimeconfig.dev.json
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.pdb
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.AssemblyInfoInputs.cache
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.AssemblyInfo.cs
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.csproj.CoreCompileInputs.cache
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.csproj.CopyComplete
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.pdb
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.genruntimeconfig.cache
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.csprojAssemblyReference.cache
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\testhost.exe
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\testhost.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.dll.config
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.deps.json
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.runtimeconfig.json
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.runtimeconfig.dev.json
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\OpenEmrAutomation.pdb
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.AssemblyInfoInputs.cache
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.AssemblyInfo.cs
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.csproj.CoreCompileInputs.cache
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.csproj.CopyComplete
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.pdb
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.genruntimeconfig.cache
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\ExtentReports.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Core.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HostFiltering.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Extensions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HttpOverrides.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.IIS.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\RazorEngine.NetCore.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\bin\Debug\netcoreapp3.1\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+D:\B-Mine\Company\Company\Unitedlex\WebAutomationFramework - Copy\OpenEmrAutomation\obj\Debug\netcoreapp3.1\OpenEmrAutomation.csprojAssemblyReference.cache
